@@ -159,9 +159,6 @@ ul h2 {
    .fa-shopping-cart {
       padding-left: 10rem;
    }
-   aside {
-      padding-top: 800px;
-   }
    .imgSection img {
       width: 30rem;
       height: 20rem;
@@ -180,6 +177,9 @@ ul h2 {
    .fa-shopping-cart {
       padding-left: unset;
    }
+   aside {
+      padding-top: 700px;
+   }
    .imgSection img {
       height: 18rem;
   }
@@ -196,7 +196,6 @@ ul h2 {
    .bars {
       display: unset;
       list-style: none;
-      padding-left: 50px;
    }
    .grid {
       flex-wrap: wrap;
@@ -204,12 +203,13 @@ ul h2 {
    }
    .imgSection img {
       width: 20rem;
+      height: 15rem;
    }
    ul h2 {
       display: block;
    }
    .sneakers-info {
-      margin: 130px 0 0 0;
+      margin: 100px 0 0 0;
    }
    aside {
       visibility: hidden;
