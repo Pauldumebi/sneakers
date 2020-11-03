@@ -132,24 +132,15 @@ ul h2 {
 .blue {
    background-color: #0392BF;
    box-shadow: black;
-   margin-left: 50px;
-   -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.637);
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.637);
 }
 .pink {
    background-color: #ED48BA;
-   -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.637);
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.637);
 }
 .yellow {
    background-color: #FBEC06;
-   -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.637);
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.637);
 }
 .grey {
    background-color: #B3D4E0;
-   -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.637);
-   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.637);
 }
 .label {
    margin: 20px 0;
@@ -204,14 +195,9 @@ ul h2 {
    .imgSection img {
       height: 18rem;
   }
-  /* footer {
-     display: none;
-  } */
 }
 @media screen and (max-width: 650px) {
-
 }
-
 @media screen and (max-width: 480px) {
 
    header ul {
