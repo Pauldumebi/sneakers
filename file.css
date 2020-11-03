@@ -186,6 +186,9 @@ ul h2 {
   }
 }
 @media screen and (max-width: 950px) {
+   body {
+      overflow-y: hidden;
+   }
    .grid {
       flex-wrap: wrap;
    }
@@ -201,9 +204,9 @@ ul h2 {
    .imgSection img {
       height: 18rem;
   }
-  footer {
+  /* footer {
      display: none;
-  }
+  } */
 }
 @media screen and (max-width: 650px) {
 
