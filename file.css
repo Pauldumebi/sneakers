@@ -198,6 +198,9 @@ ul h2 {
    .imgSection img {
       height: 18rem;
   }
+  footer {
+     display: none;
+  }
 }
 @media screen and (max-width: 650px) {
 
