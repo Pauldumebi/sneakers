@@ -30,7 +30,7 @@ header li {
    padding: 2rem 2rem;
 }
 .fa-shopping-cart{
-   padding-left: 35rem;
+   padding-left: 32rem;
 }
 aside {
    position: absolute;
@@ -132,6 +132,7 @@ ul h2 {
 .blue {
    background-color: #0392BF;
    box-shadow: black;
+   margin-left: 50px;
 }
 .pink {
    background-color: #ED48BA;
