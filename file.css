@@ -56,9 +56,7 @@ header li {
    padding: 2rem 2rem;
 }
 .fa-shopping-cart{
-   display: flex;
-   justify-content: flex-end;
-   align-items: flex-end;
+   padding-left: 35rem;
 }
 .grid {
    display: grid;
