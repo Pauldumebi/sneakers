@@ -39,6 +39,21 @@ aside {
    height: 100vh;
    padding-top: 500px;
 }
+footer {
+   background-color: #9ddef1 ;
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+   visibility: hidden;
+}
+footer ul {
+   display: flex;
+}
+footer li {
+   padding: 10px 10px ;
+   color: #0392BF;
+}
 aside li {
    display: flex;
    align-items: flex-end;
@@ -213,5 +228,11 @@ ul h2 {
    }
    aside {
       visibility: hidden;
+   }
+   footer {
+      visibility: visible;
+   }
+   .button button {
+      margin-bottom: 50px;
    }
 }
