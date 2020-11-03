@@ -6,7 +6,7 @@
 body {
    Background-color: #0392BF;
    color: white;
-   /* overflow: hidden; */
+   overflow: hidden;
    font-size: 16px;
 }
 h1, h2 {
@@ -14,7 +14,7 @@ h1, h2 {
 }
 aside {
    position: absolute;
-   margin-top: -82px;
+   margin-top: -95px;
    background-color: #9ddef1 ;
    width: 5rem;
    height: 100vh;
