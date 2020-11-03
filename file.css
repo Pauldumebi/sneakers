@@ -177,9 +177,6 @@ ul h2 {
   }
 }
 @media screen and (max-width: 950px) {
-   body {
-      overflow-y: hidden;
-   }
    .grid {
       flex-wrap: wrap;
    }
