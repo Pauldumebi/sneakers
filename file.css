@@ -21,7 +21,7 @@ header a:hover {
 h1, h2 {
    font-family: 'Trispace', sans-serif;
 }
-.fa-social {
+.fa {
    cursor: pointer;
 }
 ul {
@@ -39,10 +39,7 @@ header li {
    padding: 2rem 2rem;
 }
 .fa-shopping-cart{
-   padding-left: 35rem;
-}
-.fa-shopping-cart:hover {
-   cursor: pointer;
+   margin-left: 32.5rem;
 }
 aside {
    position: absolute;
